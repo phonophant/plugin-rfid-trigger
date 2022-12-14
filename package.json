@@ -1,6 +1,6 @@
 {
   "name": "@phonophant/rfid-tigger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trigger that will respond to an RFID device.",
   "main": "./build/main.js",
   "scripts": {
